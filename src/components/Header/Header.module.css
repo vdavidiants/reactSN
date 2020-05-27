@@ -1,0 +1,23 @@
+.header_wrapper {
+    width: 75%;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: #3F4158;
+    height: 65px;
+    margin: 0 0 10px 0;
+}
+
+.header img {
+    width: 65px;
+}
+
+.header__logo {
+    width: 65px;
+    height: 65px;
+    background-image: url("../../img/logo.jpg");
+    text-align: center;
+    line-height: 65px;
+    color: #fff;
+}

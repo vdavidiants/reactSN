@@ -1,0 +1,8 @@
+.item {
+    background-color: darkgrey;
+}
+
+.item img {
+    width: 30px;
+    height: 30px;
+}
